@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookEntry_FluentAPI", "BookEntry_FluentAPI.csproj", "{2EB3736D-6D16-494B-8774-7F103780D1E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EB3736D-6D16-494B-8774-7F103780D1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB3736D-6D16-494B-8774-7F103780D1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB3736D-6D16-494B-8774-7F103780D1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB3736D-6D16-494B-8774-7F103780D1E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF45EC2-841C-4187-86BE-932214C5F003}
+	EndGlobalSection
+EndGlobal
